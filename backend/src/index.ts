@@ -26,7 +26,7 @@ const resolvers = {
 
       const lowerQuery = query.toLowerCase();
       const filtered = dbData.filter((item: any) =>
-        item.term.toLowerCase().includes(lowerQuery),
+        item.term.toLowerCase().startsWith(lowerQuery),
       );
 
       return filtered.slice(0, 20);
