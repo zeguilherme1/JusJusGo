@@ -11,7 +11,21 @@
 - [x] Verificar responsividade da homepage
 - [x] Setar o método para popular as sugestões (DB ou JSON)
 - [x] Gerar um arquivo com as sugestões
-- [ ] Estudar algoritmos de autocomplete
-- [ ] Iniciar o desenvolvimento do backend
+- [x] Estudar algoritmos de autocomplete
+- [x] Iniciar o desenvolvimento do backend
 
+### Dia 3 (26/07/2026)
 
+- [x] Viajando, infelizmente não consegui codar no dia.
+
+### Dia 4 (27/07/2026)
+
+- [x] Finalização da função de autocomplete
+- [x] Implementar o dropdown das sugestões
+
+### Dia 5 (28/07/2026)
+
+- [x] Adicionar Docker/Docker compose
+- [x] Documentar o projeto
+- [x] Adicionar CI
+- [x] Finalizar projeto
