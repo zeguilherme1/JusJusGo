@@ -1,0 +1,4078 @@
+[
+  {
+    "id": 1,
+    "term": "abono salarial"
+  },
+  {
+    "id": 2,
+    "term": "acidente de trabalho"
+  },
+  {
+    "id": 3,
+    "term": "acórdão"
+  },
+  {
+    "id": 4,
+    "term": "acúmulo de função"
+  },
+  {
+    "id": 5,
+    "term": "adicional de insalubridade"
+  },
+  {
+    "id": 6,
+    "term": "adicional de periculosidade"
+  },
+  {
+    "id": 7,
+    "term": "adicional noturno"
+  },
+  {
+    "id": 8,
+    "term": "advogado criminalista"
+  },
+  {
+    "id": 9,
+    "term": "advogado de família"
+  },
+  {
+    "id": 10,
+    "term": "advogado online"
+  },
+  {
+    "id": 11,
+    "term": "advogado trabalhista"
+  },
+  {
+    "id": 12,
+    "term": "agravo de petição"
+  },
+  {
+    "id": 13,
+    "term": "alegações finais"
+  },
+  {
+    "id": 14,
+    "term": "alvará de autorização"
+  },
+  {
+    "id": 15,
+    "term": "alvará de construção"
+  },
+  {
+    "id": 16,
+    "term": "alvará de demolição"
+  },
+  {
+    "id": 17,
+    "term": "alvará de desmembramento"
+  },
+  {
+    "id": 18,
+    "term": "alvará de funcionamento"
+  },
+  {
+    "id": 19,
+    "term": "alvará de lavra"
+  },
+  {
+    "id": 20,
+    "term": "alvará de licença"
+  },
+  {
+    "id": 21,
+    "term": "alvará de localização"
+  },
+  {
+    "id": 22,
+    "term": "alvará de loteamento"
+  },
+  {
+    "id": 23,
+    "term": "alvará de pesquisa mineral"
+  },
+  {
+    "id": 24,
+    "term": "alvará de soltura"
+  },
+  {
+    "id": 25,
+    "term": "alvará do corpo de bombeiros"
+  },
+  {
+    "id": 26,
+    "term": "alvará judicial"
+  },
+  {
+    "id": 27,
+    "term": "alvará para levantamento de valores"
+  },
+  {
+    "id": 28,
+    "term": "alvará sanitário"
+  },
+  {
+    "id": 29,
+    "term": "amicus curiae"
+  },
+  {
+    "id": 30,
+    "term": "aposentadoria especial"
+  },
+  {
+    "id": 31,
+    "term": "aposentadoria por idade"
+  },
+  {
+    "id": 32,
+    "term": "aposentadoria por invalidez"
+  },
+  {
+    "id": 33,
+    "term": "aposentadoria por tempo de contribuição"
+  },
+  {
+    "id": 34,
+    "term": "arguição de descumprimento de preceito fundamental"
+  },
+  {
+    "id": 35,
+    "term": "assistente técnico"
+  },
+  {
+    "id": 36,
+    "term": "assédio moral no trabalho"
+  },
+  {
+    "id": 37,
+    "term": "assédio sexual"
+  },
+  {
+    "id": 38,
+    "term": "audiência de acareação"
+  },
+  {
+    "id": 39,
+    "term": "audiência de admonitória"
+  },
+  {
+    "id": 40,
+    "term": "audiência de apresentação"
+  },
+  {
+    "id": 41,
+    "term": "audiência de conciliação"
+  },
+  {
+    "id": 42,
+    "term": "audiência de continuação"
+  },
+  {
+    "id": 43,
+    "term": "audiência de custódia"
+  },
+  {
+    "id": 44,
+    "term": "audiência de instrução"
+  },
+  {
+    "id": 45,
+    "term": "audiência de instrução e julgamento"
+  },
+  {
+    "id": 46,
+    "term": "audiência de interrogatório"
+  },
+  {
+    "id": 47,
+    "term": "audiência de julgamento"
+  },
+  {
+    "id": 48,
+    "term": "audiência de justificação"
+  },
+  {
+    "id": 49,
+    "term": "audiência de justificação prévia"
+  },
+  {
+    "id": 50,
+    "term": "audiência de leitura de sentença"
+  },
+  {
+    "id": 51,
+    "term": "audiência de mediação"
+  },
+  {
+    "id": 52,
+    "term": "audiência de ouvida de testemunhas"
+  },
+  {
+    "id": 53,
+    "term": "audiência de qualificação"
+  },
+  {
+    "id": 54,
+    "term": "audiência de saneamento"
+  },
+  {
+    "id": 55,
+    "term": "audiência de suspensão condicional do processo"
+  },
+  {
+    "id": 56,
+    "term": "audiência de tentativa de conciliação"
+  },
+  {
+    "id": 57,
+    "term": "audiência de transação penal"
+  },
+  {
+    "id": 58,
+    "term": "auxílio-acidente"
+  },
+  {
+    "id": 59,
+    "term": "auxílio-doença"
+  },
+  {
+    "id": 60,
+    "term": "auxílio-reclusão"
+  },
+  {
+    "id": 61,
+    "term": "aviso prévio"
+  },
+  {
+    "id": 62,
+    "term": "ação de adjudicação compulsória"
+  },
+  {
+    "id": 63,
+    "term": "ação de adoção"
+  },
+  {
+    "id": 64,
+    "term": "ação de alienação judicial"
+  },
+  {
+    "id": 65,
+    "term": "ação de alimentos"
+  },
+  {
+    "id": 66,
+    "term": "ação de alimentos gravídicos"
+  },
+  {
+    "id": 67,
+    "term": "ação de alteração de nome"
+  },
+  {
+    "id": 68,
+    "term": "ação de anulação de casamento"
+  },
+  {
+    "id": 69,
+    "term": "ação de apuração de haveres"
+  },
+  {
+    "id": 70,
+    "term": "ação de busca e apreensão"
+  },
+  {
+    "id": 71,
+    "term": "ação de cancelamento de protesto"
+  },
+  {
+    "id": 72,
+    "term": "ação de cobrança"
+  },
+  {
+    "id": 73,
+    "term": "ação de consignação em pagamento"
+  },
+  {
+    "id": 74,
+    "term": "ação de curatela"
+  },
+  {
+    "id": 75,
+    "term": "ação de demarcação"
+  },
+  {
+    "id": 76,
+    "term": "ação de desapropriação"
+  },
+  {
+    "id": 77,
+    "term": "ação de despejo"
+  },
+  {
+    "id": 78,
+    "term": "ação de destituição do poder familiar"
+  },
+  {
+    "id": 79,
+    "term": "ação de dissolução de sociedade"
+  },
+  {
+    "id": 80,
+    "term": "ação de dissolução de união estável"
+  },
+  {
+    "id": 81,
+    "term": "ação de divisão de terras"
+  },
+  {
+    "id": 82,
+    "term": "ação de divórcio"
+  },
+  {
+    "id": 83,
+    "term": "ação de embargos de terceiro"
+  },
+  {
+    "id": 84,
+    "term": "ação de evicção"
+  },
+  {
+    "id": 85,
+    "term": "ação de execução"
+  },
+  {
+    "id": 86,
+    "term": "ação de execução de alimentos"
+  },
+  {
+    "id": 87,
+    "term": "ação de execução de título extrajudicial"
+  },
+  {
+    "id": 88,
+    "term": "ação de execução fiscal"
+  },
+  {
+    "id": 89,
+    "term": "ação de exibição de documentos"
+  },
+  {
+    "id": 90,
+    "term": "ação de exigir contas"
+  },
+  {
+    "id": 91,
+    "term": "ação de exoneração de alimentos"
+  },
+  {
+    "id": 92,
+    "term": "ação de guarda"
+  },
+  {
+    "id": 93,
+    "term": "ação de habeas corpus"
+  },
+  {
+    "id": 94,
+    "term": "ação de habeas data"
+  },
+  {
+    "id": 95,
+    "term": "ação de homologação de penhor legal"
+  },
+  {
+    "id": 96,
+    "term": "ação de imissão na posse"
+  },
+  {
+    "id": 97,
+    "term": "ação de indenização"
+  },
+  {
+    "id": 98,
+    "term": "ação de inexigibilidade de débito"
+  },
+  {
+    "id": 99,
+    "term": "ação de interdito proibitório"
+  },
+  {
+    "id": 100,
+    "term": "ação de interdição"
+  },
+  {
+    "id": 101,
+    "term": "ação de investigação de paternidade"
+  },
+  {
+    "id": 102,
+    "term": "ação de justificação judicial"
+  },
+  {
+    "id": 103,
+    "term": "ação de mandado de segurança"
+  },
+  {
+    "id": 104,
+    "term": "ação de manutenção de posse"
+  },
+  {
+    "id": 105,
+    "term": "ação de nulidade de testamento"
+  },
+  {
+    "id": 106,
+    "term": "ação de nunciação de obra nova"
+  },
+  {
+    "id": 107,
+    "term": "ação de obrigação de dar coisa certa"
+  },
+  {
+    "id": 108,
+    "term": "ação de obrigação de fazer"
+  },
+  {
+    "id": 109,
+    "term": "ação de obrigação de não fazer"
+  },
+  {
+    "id": 110,
+    "term": "ação de outorga de escritura"
+  },
+  {
+    "id": 111,
+    "term": "ação de partilha de bens"
+  },
+  {
+    "id": 112,
+    "term": "ação de prestação de contas"
+  },
+  {
+    "id": 113,
+    "term": "ação de produção antecipada de provas"
+  },
+  {
+    "id": 114,
+    "term": "ação de reconhecimento de união estável"
+  },
+  {
+    "id": 115,
+    "term": "ação de regulamentação de visitas"
+  },
+  {
+    "id": 116,
+    "term": "ação de reintegração de posse"
+  },
+  {
+    "id": 117,
+    "term": "ação de reparação de danos"
+  },
+  {
+    "id": 118,
+    "term": "ação de repetição de indébito"
+  },
+  {
+    "id": 119,
+    "term": "ação de rescisão contratual"
+  },
+  {
+    "id": 120,
+    "term": "ação de resolução contratual"
+  },
+  {
+    "id": 121,
+    "term": "ação de responsabilidade civil"
+  },
+  {
+    "id": 122,
+    "term": "ação de retificação de registro civil"
+  },
+  {
+    "id": 123,
+    "term": "ação de revisional de alimentos"
+  },
+  {
+    "id": 124,
+    "term": "ação de revisão de contrato"
+  },
+  {
+    "id": 125,
+    "term": "ação de sonegados"
+  },
+  {
+    "id": 126,
+    "term": "ação de suprimento de consentimento"
+  },
+  {
+    "id": 127,
+    "term": "ação de tomada de decisão apoiada"
+  },
+  {
+    "id": 128,
+    "term": "ação de tutela"
+  },
+  {
+    "id": 129,
+    "term": "ação de usucapião"
+  },
+  {
+    "id": 130,
+    "term": "ação de vício redibitório"
+  },
+  {
+    "id": 131,
+    "term": "ação declaratória de constitucionalidade"
+  },
+  {
+    "id": 132,
+    "term": "ação direta de inconstitucionalidade"
+  },
+  {
+    "id": 133,
+    "term": "ação popular"
+  },
+  {
+    "id": 134,
+    "term": "ação previdenciária de auxílio-acidente por doença ocupacional"
+  },
+  {
+    "id": 135,
+    "term": "ação previdenciária de averbação de tempo de contribuição"
+  },
+  {
+    "id": 136,
+    "term": "ação previdenciária de concessão de aposentadoria"
+  },
+  {
+    "id": 137,
+    "term": "ação previdenciária de concessão de auxílio-doença"
+  },
+  {
+    "id": 138,
+    "term": "ação previdenciária de concessão de bpc loas"
+  },
+  {
+    "id": 139,
+    "term": "ação previdenciária de concessão de pensão por morte"
+  },
+  {
+    "id": 140,
+    "term": "ação previdenciária de desaposentação"
+  },
+  {
+    "id": 141,
+    "term": "ação previdenciária de reconhecimento de tempo especial"
+  },
+  {
+    "id": 142,
+    "term": "ação previdenciária de reconhecimento de tempo rural"
+  },
+  {
+    "id": 143,
+    "term": "ação previdenciária de restabelecimento de auxílio-doença"
+  },
+  {
+    "id": 144,
+    "term": "ação previdenciária de revisão da vida toda"
+  },
+  {
+    "id": 145,
+    "term": "ação previdenciária de revisão de aposentadoria"
+  },
+  {
+    "id": 146,
+    "term": "ação previdenciária de revisão de buraco negro"
+  },
+  {
+    "id": 147,
+    "term": "ação previdenciária de revisão de teto"
+  },
+  {
+    "id": 148,
+    "term": "ação previdenciária de salário-maternidade rural"
+  },
+  {
+    "id": 149,
+    "term": "bafômetro"
+  },
+  {
+    "id": 150,
+    "term": "banco de horas"
+  },
+  {
+    "id": 151,
+    "term": "bpc loas deficiente"
+  },
+  {
+    "id": 152,
+    "term": "bpc loas idoso"
+  },
+  {
+    "id": 153,
+    "term": "certidão conjunta da receita federal"
+  },
+  {
+    "id": 154,
+    "term": "certidão de ações reais e pessoais reipersecutórias"
+  },
+  {
+    "id": 155,
+    "term": "certidão de breve relato"
+  },
+  {
+    "id": 156,
+    "term": "certidão de casamento"
+  },
+  {
+    "id": 157,
+    "term": "certidão de distribuição civil"
+  },
+  {
+    "id": 158,
+    "term": "certidão de distribuição criminal"
+  },
+  {
+    "id": 159,
+    "term": "certidão de falência e concordata"
+  },
+  {
+    "id": 160,
+    "term": "certidão de insolvência civil"
+  },
+  {
+    "id": 161,
+    "term": "certidão de inteiro teor"
+  },
+  {
+    "id": 162,
+    "term": "certidão de matrícula de imóvel"
+  },
+  {
+    "id": 163,
+    "term": "certidão de nascimento"
+  },
+  {
+    "id": 164,
+    "term": "certidão de objeto e pé"
+  },
+  {
+    "id": 165,
+    "term": "certidão de protesto"
+  },
+  {
+    "id": 166,
+    "term": "certidão de quitação de tributos imobiliários"
+  },
+  {
+    "id": 167,
+    "term": "certidão de quitação eleitoral"
+  },
+  {
+    "id": 168,
+    "term": "certidão de regularidade do fgts"
+  },
+  {
+    "id": 169,
+    "term": "certidão de regularidade fiscal"
+  },
+  {
+    "id": 170,
+    "term": "certidão de tempo de contribuição"
+  },
+  {
+    "id": 171,
+    "term": "certidão de testamento"
+  },
+  {
+    "id": 172,
+    "term": "certidão de óbito"
+  },
+  {
+    "id": 173,
+    "term": "certidão de ônus reais"
+  },
+  {
+    "id": 174,
+    "term": "certidão negativa de antecedentes criminais"
+  },
+  {
+    "id": 175,
+    "term": "certidão negativa de débitos trabalhistas"
+  },
+  {
+    "id": 176,
+    "term": "certidão negativa de débitos tributários"
+  },
+  {
+    "id": 177,
+    "term": "certidão positiva com efeitos de negativa"
+  },
+  {
+    "id": 178,
+    "term": "chamamento ao processo"
+  },
+  {
+    "id": 179,
+    "term": "clt"
+  },
+  {
+    "id": 180,
+    "term": "cnh suspensa"
+  },
+  {
+    "id": 181,
+    "term": "coisa julgada"
+  },
+  {
+    "id": 182,
+    "term": "competência"
+  },
+  {
+    "id": 183,
+    "term": "comprovante de depósito recursal"
+  },
+  {
+    "id": 184,
+    "term": "comprovante de entrega da declaração"
+  },
+  {
+    "id": 185,
+    "term": "comprovante de escolaridade"
+  },
+  {
+    "id": 186,
+    "term": "comprovante de inscrição estadual"
+  },
+  {
+    "id": 187,
+    "term": "comprovante de inscrição municipal"
+  },
+  {
+    "id": 188,
+    "term": "comprovante de pagamento das custas"
+  },
+  {
+    "id": 189,
+    "term": "comprovante de recolhimento"
+  },
+  {
+    "id": 190,
+    "term": "comprovante de renda"
+  },
+  {
+    "id": 191,
+    "term": "comprovante de residência"
+  },
+  {
+    "id": 192,
+    "term": "comprovante de situação cadastral"
+  },
+  {
+    "id": 193,
+    "term": "conflito de competência"
+  },
+  {
+    "id": 194,
+    "term": "consolidação das leis do trabalho"
+  },
+  {
+    "id": 195,
+    "term": "constituição federal"
+  },
+  {
+    "id": 196,
+    "term": "contestação"
+  },
+  {
+    "id": 197,
+    "term": "contrato de adesão"
+  },
+  {
+    "id": 198,
+    "term": "contrato de agência"
+  },
+  {
+    "id": 199,
+    "term": "contrato de alienação fiduciária"
+  },
+  {
+    "id": 200,
+    "term": "contrato de aprendizagem"
+  },
+  {
+    "id": 201,
+    "term": "contrato de arrendamento mercantil"
+  },
+  {
+    "id": 202,
+    "term": "contrato de comodato"
+  },
+  {
+    "id": 203,
+    "term": "contrato de compra e venda"
+  },
+  {
+    "id": 204,
+    "term": "contrato de compromisso"
+  },
+  {
+    "id": 205,
+    "term": "contrato de concessão comercial"
+  },
+  {
+    "id": 206,
+    "term": "contrato de confidencialidade"
+  },
+  {
+    "id": 207,
+    "term": "contrato de corretagem"
+  },
+  {
+    "id": 208,
+    "term": "contrato de depósito"
+  },
+  {
+    "id": 209,
+    "term": "contrato de distribuição"
+  },
+  {
+    "id": 210,
+    "term": "contrato de doação"
+  },
+  {
+    "id": 211,
+    "term": "contrato de edição"
+  },
+  {
+    "id": 212,
+    "term": "contrato de empreitada"
+  },
+  {
+    "id": 213,
+    "term": "contrato de exclusividade"
+  },
+  {
+    "id": 214,
+    "term": "contrato de experiência"
+  },
+  {
+    "id": 215,
+    "term": "contrato de factoring"
+  },
+  {
+    "id": 216,
+    "term": "contrato de fiança"
+  },
+  {
+    "id": 217,
+    "term": "contrato de franchising"
+  },
+  {
+    "id": 218,
+    "term": "contrato de home office"
+  },
+  {
+    "id": 219,
+    "term": "contrato de hospedagem"
+  },
+  {
+    "id": 220,
+    "term": "contrato de joint venture"
+  },
+  {
+    "id": 221,
+    "term": "contrato de know-how"
+  },
+  {
+    "id": 222,
+    "term": "contrato de leasing"
+  },
+  {
+    "id": 223,
+    "term": "contrato de licença de uso de marca"
+  },
+  {
+    "id": 224,
+    "term": "contrato de licença de uso de software"
+  },
+  {
+    "id": 225,
+    "term": "contrato de locação"
+  },
+  {
+    "id": 226,
+    "term": "contrato de mandato"
+  },
+  {
+    "id": 227,
+    "term": "contrato de mútuo"
+  },
+  {
+    "id": 228,
+    "term": "contrato de mútuo conversível"
+  },
+  {
+    "id": 229,
+    "term": "contrato de namoro"
+  },
+  {
+    "id": 230,
+    "term": "contrato de parceria agrícola"
+  },
+  {
+    "id": 231,
+    "term": "contrato de patrocínio"
+  },
+  {
+    "id": 232,
+    "term": "contrato de prestação de serviços"
+  },
+  {
+    "id": 233,
+    "term": "contrato de publicidade"
+  },
+  {
+    "id": 234,
+    "term": "contrato de representação comercial"
+  },
+  {
+    "id": 235,
+    "term": "contrato de seguro"
+  },
+  {
+    "id": 236,
+    "term": "contrato de teletrabalho"
+  },
+  {
+    "id": 237,
+    "term": "contrato de terceirização"
+  },
+  {
+    "id": 238,
+    "term": "contrato de trabalho"
+  },
+  {
+    "id": 239,
+    "term": "contrato de trabalho intermitente"
+  },
+  {
+    "id": 240,
+    "term": "contrato de trabalho por prazo determinado"
+  },
+  {
+    "id": 241,
+    "term": "contrato de transação"
+  },
+  {
+    "id": 242,
+    "term": "contrato de transferência de tecnologia"
+  },
+  {
+    "id": 243,
+    "term": "contrato de transporte"
+  },
+  {
+    "id": 244,
+    "term": "contrato de união estável"
+  },
+  {
+    "id": 245,
+    "term": "contrato de vesting"
+  },
+  {
+    "id": 246,
+    "term": "controle de constitucionalidade"
+  },
+  {
+    "id": 247,
+    "term": "crime de aborto"
+  },
+  {
+    "id": 248,
+    "term": "crime de ameaça"
+  },
+  {
+    "id": 249,
+    "term": "crime de apropriação indébita"
+  },
+  {
+    "id": 250,
+    "term": "crime de associação criminosa"
+  },
+  {
+    "id": 251,
+    "term": "crime de calúnia"
+  },
+  {
+    "id": 252,
+    "term": "crime de concussão"
+  },
+  {
+    "id": 253,
+    "term": "crime de contrabando"
+  },
+  {
+    "id": 254,
+    "term": "crime de corrupção ativa"
+  },
+  {
+    "id": 255,
+    "term": "crime de corrupção passiva"
+  },
+  {
+    "id": 256,
+    "term": "crime de crimes ambientais"
+  },
+  {
+    "id": 257,
+    "term": "crime de crimes contra a ordem tributária"
+  },
+  {
+    "id": 258,
+    "term": "crime de crimes contra as relações de consumo"
+  },
+  {
+    "id": 259,
+    "term": "crime de crimes contra o sistema financeiro"
+  },
+  {
+    "id": 260,
+    "term": "crime de cárcere privado"
+  },
+  {
+    "id": 261,
+    "term": "crime de dano"
+  },
+  {
+    "id": 262,
+    "term": "crime de desacato"
+  },
+  {
+    "id": 263,
+    "term": "crime de descaminho"
+  },
+  {
+    "id": 264,
+    "term": "crime de desobediência"
+  },
+  {
+    "id": 265,
+    "term": "crime de difamação"
+  },
+  {
+    "id": 266,
+    "term": "crime de divulgação de segredo"
+  },
+  {
+    "id": 267,
+    "term": "crime de estelionato"
+  },
+  {
+    "id": 268,
+    "term": "crime de estelionato majorado"
+  },
+  {
+    "id": 269,
+    "term": "crime de estupro"
+  },
+  {
+    "id": 270,
+    "term": "crime de evasão de divisas"
+  },
+  {
+    "id": 271,
+    "term": "crime de extorsão"
+  },
+  {
+    "id": 272,
+    "term": "crime de extorsão mediante sequestro"
+  },
+  {
+    "id": 273,
+    "term": "crime de falsidade ideológica"
+  },
+  {
+    "id": 274,
+    "term": "crime de falso testemunho"
+  },
+  {
+    "id": 275,
+    "term": "crime de feminicídio"
+  },
+  {
+    "id": 276,
+    "term": "crime de fraude à execução"
+  },
+  {
+    "id": 277,
+    "term": "crime de furto"
+  },
+  {
+    "id": 278,
+    "term": "crime de furto qualificado"
+  },
+  {
+    "id": 279,
+    "term": "crime de homicídio"
+  },
+  {
+    "id": 280,
+    "term": "crime de infanticídio"
+  },
+  {
+    "id": 281,
+    "term": "crime de injúria racial"
+  },
+  {
+    "id": 282,
+    "term": "crime de interceptação telefônica ilegal"
+  },
+  {
+    "id": 283,
+    "term": "crime de latrocínio"
+  },
+  {
+    "id": 284,
+    "term": "crime de lavagem de dinheiro"
+  },
+  {
+    "id": 285,
+    "term": "crime de lesão corporal"
+  },
+  {
+    "id": 286,
+    "term": "crime de maus-tratos aos animais"
+  },
+  {
+    "id": 287,
+    "term": "crime de omissão de socorro"
+  },
+  {
+    "id": 288,
+    "term": "crime de organização criminosa"
+  },
+  {
+    "id": 289,
+    "term": "crime de peculato"
+  },
+  {
+    "id": 290,
+    "term": "crime de perigo de contágio venéreo"
+  },
+  {
+    "id": 291,
+    "term": "crime de prevaricação"
+  },
+  {
+    "id": 292,
+    "term": "crime de racismo"
+  },
+  {
+    "id": 293,
+    "term": "crime de receptação"
+  },
+  {
+    "id": 294,
+    "term": "crime de redução a condição análoga à de escravo"
+  },
+  {
+    "id": 295,
+    "term": "crime de resistência"
+  },
+  {
+    "id": 296,
+    "term": "crime de rixa"
+  },
+  {
+    "id": 297,
+    "term": "crime de roubo"
+  },
+  {
+    "id": 298,
+    "term": "crime de roubo majorado"
+  },
+  {
+    "id": 299,
+    "term": "crime de sequestro"
+  },
+  {
+    "id": 300,
+    "term": "crime de sonegação fiscal"
+  },
+  {
+    "id": 301,
+    "term": "crime de terrorismo"
+  },
+  {
+    "id": 302,
+    "term": "crime de tráfico de drogas"
+  },
+  {
+    "id": 303,
+    "term": "crime de trânsito adulteração de placa"
+  },
+  {
+    "id": 304,
+    "term": "crime de trânsito clonagem de veículo"
+  },
+  {
+    "id": 305,
+    "term": "crime de trânsito conduzir veículo sem habilitação"
+  },
+  {
+    "id": 306,
+    "term": "crime de trânsito desobediência no trânsito"
+  },
+  {
+    "id": 307,
+    "term": "crime de trânsito direção perigosa"
+  },
+  {
+    "id": 308,
+    "term": "crime de trânsito embriaguez ao volante"
+  },
+  {
+    "id": 309,
+    "term": "crime de trânsito entregar veículo a pessoa não habilitada"
+  },
+  {
+    "id": 310,
+    "term": "crime de trânsito excesso de velocidade"
+  },
+  {
+    "id": 311,
+    "term": "crime de trânsito fraude processual no trânsito"
+  },
+  {
+    "id": 312,
+    "term": "crime de trânsito fuga do local do acidente"
+  },
+  {
+    "id": 313,
+    "term": "crime de trânsito furto de veículo"
+  },
+  {
+    "id": 314,
+    "term": "crime de trânsito homicídio culposo na direção"
+  },
+  {
+    "id": 315,
+    "term": "crime de trânsito lesão corporal culposa na direção"
+  },
+  {
+    "id": 316,
+    "term": "crime de trânsito omissão de socorro no trânsito"
+  },
+  {
+    "id": 317,
+    "term": "crime de trânsito participação em racha"
+  },
+  {
+    "id": 318,
+    "term": "crime de trânsito racha com lesão grave"
+  },
+  {
+    "id": 319,
+    "term": "crime de trânsito racha com morte"
+  },
+  {
+    "id": 320,
+    "term": "crime de trânsito receptação de veículo"
+  },
+  {
+    "id": 321,
+    "term": "crime de trânsito roubo de veículo"
+  },
+  {
+    "id": 322,
+    "term": "crime de trânsito violação da suspensão da cnh"
+  },
+  {
+    "id": 323,
+    "term": "crime de violação de correspondência"
+  },
+  {
+    "id": 324,
+    "term": "crime de violação de domicílio"
+  },
+  {
+    "id": 325,
+    "term": "crime de violência doméstica"
+  },
+  {
+    "id": 326,
+    "term": "custas processuais"
+  },
+  {
+    "id": 327,
+    "term": "código civil"
+  },
+  {
+    "id": 328,
+    "term": "código de defesa do consumidor"
+  },
+  {
+    "id": 329,
+    "term": "código de processo civil"
+  },
+  {
+    "id": 330,
+    "term": "código de processo penal"
+  },
+  {
+    "id": 331,
+    "term": "código de trânsito brasileiro"
+  },
+  {
+    "id": 332,
+    "term": "código eleitoral"
+  },
+  {
+    "id": 333,
+    "term": "código penal"
+  },
+  {
+    "id": 334,
+    "term": "código tributário nacional"
+  },
+  {
+    "id": 335,
+    "term": "dano ambiental"
+  },
+  {
+    "id": 336,
+    "term": "dano direto"
+  },
+  {
+    "id": 337,
+    "term": "dano emergente"
+  },
+  {
+    "id": 338,
+    "term": "dano estético"
+  },
+  {
+    "id": 339,
+    "term": "dano existencial"
+  },
+  {
+    "id": 340,
+    "term": "dano extrapatrimonial"
+  },
+  {
+    "id": 341,
+    "term": "dano indireto"
+  },
+  {
+    "id": 342,
+    "term": "dano infecto"
+  },
+  {
+    "id": 343,
+    "term": "dano lucro cessante"
+  },
+  {
+    "id": 344,
+    "term": "dano material"
+  },
+  {
+    "id": 345,
+    "term": "dano moral"
+  },
+  {
+    "id": 346,
+    "term": "dano moral coletivo"
+  },
+  {
+    "id": 347,
+    "term": "dano moral in re ipsa"
+  },
+  {
+    "id": 348,
+    "term": "dano patrimonial"
+  },
+  {
+    "id": 349,
+    "term": "dano punitivo"
+  },
+  {
+    "id": 350,
+    "term": "dano reflexo"
+  },
+  {
+    "id": 351,
+    "term": "dano ricochete"
+  },
+  {
+    "id": 352,
+    "term": "dano social"
+  },
+  {
+    "id": 353,
+    "term": "dano à honra"
+  },
+  {
+    "id": 354,
+    "term": "dano à imagem"
+  },
+  {
+    "id": 355,
+    "term": "declaração de ausência"
+  },
+  {
+    "id": 356,
+    "term": "declaração de autenticidade"
+  },
+  {
+    "id": 357,
+    "term": "declaração de bens"
+  },
+  {
+    "id": 358,
+    "term": "declaração de constitucionalidade"
+  },
+  {
+    "id": 359,
+    "term": "declaração de direitos humanos"
+  },
+  {
+    "id": 360,
+    "term": "declaração de estado civil"
+  },
+  {
+    "id": 361,
+    "term": "declaração de hipossuficiência"
+  },
+  {
+    "id": 362,
+    "term": "declaração de imposto de renda"
+  },
+  {
+    "id": 363,
+    "term": "declaração de inconstitucionalidade"
+  },
+  {
+    "id": 364,
+    "term": "declaração de nascimento"
+  },
+  {
+    "id": 365,
+    "term": "declaração de nulidade"
+  },
+  {
+    "id": 366,
+    "term": "declaração de pobreza"
+  },
+  {
+    "id": 367,
+    "term": "declaração de renda"
+  },
+  {
+    "id": 368,
+    "term": "declaração de residência"
+  },
+  {
+    "id": 369,
+    "term": "declaração de separação de fato"
+  },
+  {
+    "id": 370,
+    "term": "declaração de trabalho"
+  },
+  {
+    "id": 371,
+    "term": "declaração de união estável"
+  },
+  {
+    "id": 372,
+    "term": "declaração de vida"
+  },
+  {
+    "id": 373,
+    "term": "declaração de vontade"
+  },
+  {
+    "id": 374,
+    "term": "declaração de vínculo empregatício"
+  },
+  {
+    "id": 375,
+    "term": "declaração de óbito"
+  },
+  {
+    "id": 376,
+    "term": "defensoria pública"
+  },
+  {
+    "id": 377,
+    "term": "demissão por justa causa"
+  },
+  {
+    "id": 378,
+    "term": "demissão sem justa causa"
+  },
+  {
+    "id": 379,
+    "term": "denunciação da lide"
+  },
+  {
+    "id": 380,
+    "term": "desvio de função"
+  },
+  {
+    "id": 381,
+    "term": "direito administrativo"
+  },
+  {
+    "id": 382,
+    "term": "direito adquirido"
+  },
+  {
+    "id": 383,
+    "term": "direito aeronáutico"
+  },
+  {
+    "id": 384,
+    "term": "direito agrário"
+  },
+  {
+    "id": 385,
+    "term": "direito ambiental"
+  },
+  {
+    "id": 386,
+    "term": "direito ao esquecimento"
+  },
+  {
+    "id": 387,
+    "term": "direito ao lazer"
+  },
+  {
+    "id": 388,
+    "term": "direito ao transporte"
+  },
+  {
+    "id": 389,
+    "term": "direito autoral"
+  },
+  {
+    "id": 390,
+    "term": "direito civil"
+  },
+  {
+    "id": 391,
+    "term": "direito constitucional"
+  },
+  {
+    "id": 392,
+    "term": "direito das coisas"
+  },
+  {
+    "id": 393,
+    "term": "direito das obrigações"
+  },
+  {
+    "id": 394,
+    "term": "direito de anticrese"
+  },
+  {
+    "id": 395,
+    "term": "direito de família"
+  },
+  {
+    "id": 396,
+    "term": "direito de habitação"
+  },
+  {
+    "id": 397,
+    "term": "direito de hipoteca"
+  },
+  {
+    "id": 398,
+    "term": "direito de imagem"
+  },
+  {
+    "id": 399,
+    "term": "direito de laje"
+  },
+  {
+    "id": 400,
+    "term": "direito de penhor"
+  },
+  {
+    "id": 401,
+    "term": "direito de resposta"
+  },
+  {
+    "id": 402,
+    "term": "direito de servidão"
+  },
+  {
+    "id": 403,
+    "term": "direito de superfície"
+  },
+  {
+    "id": 404,
+    "term": "direito de uso"
+  },
+  {
+    "id": 405,
+    "term": "direito de usufruto"
+  },
+  {
+    "id": 406,
+    "term": "direito de vizinhança"
+  },
+  {
+    "id": 407,
+    "term": "direito digital"
+  },
+  {
+    "id": 408,
+    "term": "direito do consumidor"
+  },
+  {
+    "id": 409,
+    "term": "direito do trabalho"
+  },
+  {
+    "id": 410,
+    "term": "direito dos animais"
+  },
+  {
+    "id": 411,
+    "term": "direito econômico"
+  },
+  {
+    "id": 412,
+    "term": "direito eleitoral"
+  },
+  {
+    "id": 413,
+    "term": "direito empresarial"
+  },
+  {
+    "id": 414,
+    "term": "direito financeiro"
+  },
+  {
+    "id": 415,
+    "term": "direito formal"
+  },
+  {
+    "id": 416,
+    "term": "direito imobiliário"
+  },
+  {
+    "id": 417,
+    "term": "direito internacional"
+  },
+  {
+    "id": 418,
+    "term": "direito marítimo"
+  },
+  {
+    "id": 419,
+    "term": "direito material"
+  },
+  {
+    "id": 420,
+    "term": "direito militar"
+  },
+  {
+    "id": 421,
+    "term": "direito médico"
+  },
+  {
+    "id": 422,
+    "term": "direito objetivo"
+  },
+  {
+    "id": 423,
+    "term": "direito penal"
+  },
+  {
+    "id": 424,
+    "term": "direito penal ambiental"
+  },
+  {
+    "id": 425,
+    "term": "direito penal culpa consciente"
+  },
+  {
+    "id": 426,
+    "term": "direito penal culpa inconsciente"
+  },
+  {
+    "id": 427,
+    "term": "direito penal do inimigo"
+  },
+  {
+    "id": 428,
+    "term": "direito penal dolo direto"
+  },
+  {
+    "id": 429,
+    "term": "direito penal dolo eventual"
+  },
+  {
+    "id": 430,
+    "term": "direito penal econômico"
+  },
+  {
+    "id": 431,
+    "term": "direito penal eleitoral"
+  },
+  {
+    "id": 432,
+    "term": "direito penal erro de proibição"
+  },
+  {
+    "id": 433,
+    "term": "direito penal erro de tipo"
+  },
+  {
+    "id": 434,
+    "term": "direito penal garantista"
+  },
+  {
+    "id": 435,
+    "term": "direito penal informático"
+  },
+  {
+    "id": 436,
+    "term": "direito penal internacional"
+  },
+  {
+    "id": 437,
+    "term": "direito penal militar"
+  },
+  {
+    "id": 438,
+    "term": "direito penal mínimo"
+  },
+  {
+    "id": 439,
+    "term": "direito penal parte especial"
+  },
+  {
+    "id": 440,
+    "term": "direito penal parte geral"
+  },
+  {
+    "id": 441,
+    "term": "direito penal simbólico"
+  },
+  {
+    "id": 442,
+    "term": "direito penal subterrâneo"
+  },
+  {
+    "id": 443,
+    "term": "direito penal tributário"
+  },
+  {
+    "id": 444,
+    "term": "direito penitenciário"
+  },
+  {
+    "id": 445,
+    "term": "direito potestativo"
+  },
+  {
+    "id": 446,
+    "term": "direito previdenciário"
+  },
+  {
+    "id": 447,
+    "term": "direito privado"
+  },
+  {
+    "id": 448,
+    "term": "direito processual civil"
+  },
+  {
+    "id": 449,
+    "term": "direito processual do trabalho"
+  },
+  {
+    "id": 450,
+    "term": "direito processual penal"
+  },
+  {
+    "id": 451,
+    "term": "direito público"
+  },
+  {
+    "id": 452,
+    "term": "direito reais"
+  },
+  {
+    "id": 453,
+    "term": "direito subjetivo"
+  },
+  {
+    "id": 454,
+    "term": "direito sucessório"
+  },
+  {
+    "id": 455,
+    "term": "direito tributário"
+  },
+  {
+    "id": 456,
+    "term": "direito urbanístico"
+  },
+  {
+    "id": 457,
+    "term": "direito à educação"
+  },
+  {
+    "id": 458,
+    "term": "direito à honra"
+  },
+  {
+    "id": 459,
+    "term": "direito à infância"
+  },
+  {
+    "id": 460,
+    "term": "direito à intimidade"
+  },
+  {
+    "id": 461,
+    "term": "direito à maternidade"
+  },
+  {
+    "id": 462,
+    "term": "direito à moradia"
+  },
+  {
+    "id": 463,
+    "term": "direito à previdência"
+  },
+  {
+    "id": 464,
+    "term": "direito à privacidade"
+  },
+  {
+    "id": 465,
+    "term": "direito à proteção"
+  },
+  {
+    "id": 466,
+    "term": "direito à saúde"
+  },
+  {
+    "id": 467,
+    "term": "direito à segurança"
+  },
+  {
+    "id": 468,
+    "term": "direito à vida"
+  },
+  {
+    "id": 469,
+    "term": "décimo terceiro"
+  },
+  {
+    "id": 470,
+    "term": "eca"
+  },
+  {
+    "id": 471,
+    "term": "embargos de declaração"
+  },
+  {
+    "id": 472,
+    "term": "embargos de devedor"
+  },
+  {
+    "id": 473,
+    "term": "embargos de divergência"
+  },
+  {
+    "id": 474,
+    "term": "embargos de nulidade"
+  },
+  {
+    "id": 475,
+    "term": "embargos de retenção por benfeitorias"
+  },
+  {
+    "id": 476,
+    "term": "embargos de terceiro"
+  },
+  {
+    "id": 477,
+    "term": "embargos infringentes"
+  },
+  {
+    "id": 478,
+    "term": "embargos infringentes e de nulidade"
+  },
+  {
+    "id": 479,
+    "term": "embargos à adjudicação"
+  },
+  {
+    "id": 480,
+    "term": "embargos à arrematação"
+  },
+  {
+    "id": 481,
+    "term": "embargos à ação monitória"
+  },
+  {
+    "id": 482,
+    "term": "embargos à execução"
+  },
+  {
+    "id": 483,
+    "term": "embargos à execução fiscal"
+  },
+  {
+    "id": 484,
+    "term": "embargos à penhora"
+  },
+  {
+    "id": 485,
+    "term": "equiparação salarial"
+  },
+  {
+    "id": 486,
+    "term": "estabilidade cipeiro"
+  },
+  {
+    "id": 487,
+    "term": "estabilidade gestante"
+  },
+  {
+    "id": 488,
+    "term": "estabilidade sindical"
+  },
+  {
+    "id": 489,
+    "term": "estatuto da criança e do adolescente"
+  },
+  {
+    "id": 490,
+    "term": "estatuto da pessoa com deficiência"
+  },
+  {
+    "id": 491,
+    "term": "estatuto do idoso"
+  },
+  {
+    "id": 492,
+    "term": "falência administrador judicial"
+  },
+  {
+    "id": 493,
+    "term": "falência assembleia de credores"
+  },
+  {
+    "id": 494,
+    "term": "falência crédito extraconcursal"
+  },
+  {
+    "id": 495,
+    "term": "falência crédito quirografário"
+  },
+  {
+    "id": 496,
+    "term": "falência decretada"
+  },
+  {
+    "id": 497,
+    "term": "falência frustrada"
+  },
+  {
+    "id": 498,
+    "term": "falência habilitação retardatária"
+  },
+  {
+    "id": 499,
+    "term": "falência quadro de credores"
+  },
+  {
+    "id": 500,
+    "term": "falência reabilitação"
+  },
+  {
+    "id": 501,
+    "term": "falência requerida"
+  },
+  {
+    "id": 502,
+    "term": "fgts"
+  },
+  {
+    "id": 503,
+    "term": "foro privilegiado"
+  },
+  {
+    "id": 504,
+    "term": "férias proporcionais"
+  },
+  {
+    "id": 505,
+    "term": "guia de arrecadação estadual"
+  },
+  {
+    "id": 506,
+    "term": "guia de arrecadação federal"
+  },
+  {
+    "id": 507,
+    "term": "guia de arrecadação municipal"
+  },
+  {
+    "id": 508,
+    "term": "guia de custas processuais"
+  },
+  {
+    "id": 509,
+    "term": "guia de depósito judicial"
+  },
+  {
+    "id": 510,
+    "term": "guia de porte de remessa e retorno"
+  },
+  {
+    "id": 511,
+    "term": "guia de preparo"
+  },
+  {
+    "id": 512,
+    "term": "guia de previdência social"
+  },
+  {
+    "id": 513,
+    "term": "guia de recolhimento da união"
+  },
+  {
+    "id": 514,
+    "term": "guia de recolhimento de despesas"
+  },
+  {
+    "id": 515,
+    "term": "guia de recolhimento de emolumentos"
+  },
+  {
+    "id": 516,
+    "term": "guia de recolhimento de impostos"
+  },
+  {
+    "id": 517,
+    "term": "guia de recolhimento de iptu"
+  },
+  {
+    "id": 518,
+    "term": "guia de recolhimento de ipva"
+  },
+  {
+    "id": 519,
+    "term": "guia de recolhimento de itbi"
+  },
+  {
+    "id": 520,
+    "term": "guia de recolhimento de itcmd"
+  },
+  {
+    "id": 521,
+    "term": "guia de recolhimento de taxas"
+  },
+  {
+    "id": 522,
+    "term": "guia de recolhimento do fgts"
+  },
+  {
+    "id": 523,
+    "term": "guia de recolhimento rescisório"
+  },
+  {
+    "id": 524,
+    "term": "guia de transito"
+  },
+  {
+    "id": 525,
+    "term": "honorários advocatícios"
+  },
+  {
+    "id": 526,
+    "term": "hora extra"
+  },
+  {
+    "id": 527,
+    "term": "icms"
+  },
+  {
+    "id": 528,
+    "term": "impeachment"
+  },
+  {
+    "id": 529,
+    "term": "impedimento"
+  },
+  {
+    "id": 530,
+    "term": "imposto de renda"
+  },
+  {
+    "id": 531,
+    "term": "incidente de resolução de demandas repetitivas"
+  },
+  {
+    "id": 532,
+    "term": "intervalo interjornada"
+  },
+  {
+    "id": 533,
+    "term": "intervalo intrajornada"
+  },
+  {
+    "id": 534,
+    "term": "intervenção de terceiros"
+  },
+  {
+    "id": 535,
+    "term": "inversão do ônus da prova"
+  },
+  {
+    "id": 536,
+    "term": "iptu"
+  },
+  {
+    "id": 537,
+    "term": "ipva"
+  },
+  {
+    "id": 538,
+    "term": "iss"
+  },
+  {
+    "id": 539,
+    "term": "itbi"
+  },
+  {
+    "id": 540,
+    "term": "itcmd"
+  },
+  {
+    "id": 541,
+    "term": "jornada de trabalho"
+  },
+  {
+    "id": 542,
+    "term": "juizado da infância e juventude"
+  },
+  {
+    "id": 543,
+    "term": "juizado de pequenas causas"
+  },
+  {
+    "id": 544,
+    "term": "juizado de violência doméstica"
+  },
+  {
+    "id": 545,
+    "term": "juizado do torcedor"
+  },
+  {
+    "id": 546,
+    "term": "juizado especial adjunto"
+  },
+  {
+    "id": 547,
+    "term": "juizado especial criminal"
+  },
+  {
+    "id": 548,
+    "term": "juizado especial cível"
+  },
+  {
+    "id": 549,
+    "term": "juizado especial da fazenda pública"
+  },
+  {
+    "id": 550,
+    "term": "juizado especial federal"
+  },
+  {
+    "id": 551,
+    "term": "juizado especial misto"
+  },
+  {
+    "id": 552,
+    "term": "juizado informal de conciliação"
+  },
+  {
+    "id": 553,
+    "term": "juizado itinerante"
+  },
+  {
+    "id": 554,
+    "term": "junta comercial abertura de empresa"
+  },
+  {
+    "id": 555,
+    "term": "junta comercial alteração contratual"
+  },
+  {
+    "id": 556,
+    "term": "junta comercial desenquadramento mei"
+  },
+  {
+    "id": 557,
+    "term": "junta comercial emissão de certidão de inteiro teor"
+  },
+  {
+    "id": 558,
+    "term": "junta comercial emissão de certidão simplificada"
+  },
+  {
+    "id": 559,
+    "term": "junta comercial enquadramento mei"
+  },
+  {
+    "id": 560,
+    "term": "junta comercial fechamento de empresa"
+  },
+  {
+    "id": 561,
+    "term": "junta comercial registro de atas"
+  },
+  {
+    "id": 562,
+    "term": "junta comercial registro de livros"
+  },
+  {
+    "id": 563,
+    "term": "junta comercial transformação de sociedade"
+  },
+  {
+    "id": 564,
+    "term": "jurisprudência stf"
+  },
+  {
+    "id": 565,
+    "term": "jurisprudência stj"
+  },
+  {
+    "id": 566,
+    "term": "justiça gratuita"
+  },
+  {
+    "id": 567,
+    "term": "lei da ação civil pública"
+  },
+  {
+    "id": 568,
+    "term": "lei de acesso à informação"
+  },
+  {
+    "id": 569,
+    "term": "lei de crimes ambientais"
+  },
+  {
+    "id": 570,
+    "term": "lei de diretrizes e bases"
+  },
+  {
+    "id": 571,
+    "term": "lei de drogas"
+  },
+  {
+    "id": 572,
+    "term": "lei de execução penal"
+  },
+  {
+    "id": 573,
+    "term": "lei de falências"
+  },
+  {
+    "id": 574,
+    "term": "lei de licitações"
+  },
+  {
+    "id": 575,
+    "term": "lei de responsabilidade fiscal"
+  },
+  {
+    "id": 576,
+    "term": "lei do inquilinato"
+  },
+  {
+    "id": 577,
+    "term": "lei do mandado de segurança"
+  },
+  {
+    "id": 578,
+    "term": "lei do superendividamento"
+  },
+  {
+    "id": 579,
+    "term": "lei geral de proteção de dados"
+  },
+  {
+    "id": 580,
+    "term": "lei maria da penha"
+  },
+  {
+    "id": 581,
+    "term": "lgpd"
+  },
+  {
+    "id": 582,
+    "term": "litisconsórcio"
+  },
+  {
+    "id": 583,
+    "term": "mandado de avaliação"
+  },
+  {
+    "id": 584,
+    "term": "mandado de averbação"
+  },
+  {
+    "id": 585,
+    "term": "mandado de busca e apreensão"
+  },
+  {
+    "id": 586,
+    "term": "mandado de citação"
+  },
+  {
+    "id": 587,
+    "term": "mandado de citação e penhora"
+  },
+  {
+    "id": 588,
+    "term": "mandado de condução coercitiva"
+  },
+  {
+    "id": 589,
+    "term": "mandado de despejo"
+  },
+  {
+    "id": 590,
+    "term": "mandado de entrega de coisa"
+  },
+  {
+    "id": 591,
+    "term": "mandado de imissão na posse"
+  },
+  {
+    "id": 592,
+    "term": "mandado de injunção"
+  },
+  {
+    "id": 593,
+    "term": "mandado de injunção coletivo"
+  },
+  {
+    "id": 594,
+    "term": "mandado de intimação"
+  },
+  {
+    "id": 595,
+    "term": "mandado de levantamento"
+  },
+  {
+    "id": 596,
+    "term": "mandado de manutenção de posse"
+  },
+  {
+    "id": 597,
+    "term": "mandado de pagamento"
+  },
+  {
+    "id": 598,
+    "term": "mandado de penhora"
+  },
+  {
+    "id": 599,
+    "term": "mandado de prisão"
+  },
+  {
+    "id": 600,
+    "term": "mandado de reintegração"
+  },
+  {
+    "id": 601,
+    "term": "mandado de segurança"
+  },
+  {
+    "id": 602,
+    "term": "mandado de segurança coletivo"
+  },
+  {
+    "id": 603,
+    "term": "medida acautelatória"
+  },
+  {
+    "id": 604,
+    "term": "medida administrativa"
+  },
+  {
+    "id": 605,
+    "term": "medida antecipatória"
+  },
+  {
+    "id": 606,
+    "term": "medida assecuratória"
+  },
+  {
+    "id": 607,
+    "term": "medida cautelar"
+  },
+  {
+    "id": 608,
+    "term": "medida coercitiva"
+  },
+  {
+    "id": 609,
+    "term": "medida compensatória"
+  },
+  {
+    "id": 610,
+    "term": "medida de exceção"
+  },
+  {
+    "id": 611,
+    "term": "medida de segurança"
+  },
+  {
+    "id": 612,
+    "term": "medida disciplinar"
+  },
+  {
+    "id": 613,
+    "term": "medida executiva atípica"
+  },
+  {
+    "id": 614,
+    "term": "medida extrajudicial"
+  },
+  {
+    "id": 615,
+    "term": "medida judicial"
+  },
+  {
+    "id": 616,
+    "term": "medida liminar"
+  },
+  {
+    "id": 617,
+    "term": "medida mitigatória"
+  },
+  {
+    "id": 618,
+    "term": "medida preventiva"
+  },
+  {
+    "id": 619,
+    "term": "medida protetiva de urgência"
+  },
+  {
+    "id": 620,
+    "term": "medida provisória"
+  },
+  {
+    "id": 621,
+    "term": "medida socioeducativa"
+  },
+  {
+    "id": 622,
+    "term": "medida sub-rogatória"
+  },
+  {
+    "id": 623,
+    "term": "ministério público"
+  },
+  {
+    "id": 624,
+    "term": "modelos de petição"
+  },
+  {
+    "id": 625,
+    "term": "multa de trânsito"
+  },
+  {
+    "id": 626,
+    "term": "notificação de cobrança"
+  },
+  {
+    "id": 627,
+    "term": "notificação de despejo"
+  },
+  {
+    "id": 628,
+    "term": "notificação de rescisão"
+  },
+  {
+    "id": 629,
+    "term": "notificação extrajudicial"
+  },
+  {
+    "id": 630,
+    "term": "notificação judicial"
+  },
+  {
+    "id": 631,
+    "term": "notificação por ar"
+  },
+  {
+    "id": 632,
+    "term": "notificação por edital"
+  },
+  {
+    "id": 633,
+    "term": "notificação premonitória"
+  },
+  {
+    "id": 634,
+    "term": "notificação via cartório"
+  },
+  {
+    "id": 635,
+    "term": "notificação via oficial de justiça"
+  },
+  {
+    "id": 636,
+    "term": "ofício de apresentação"
+  },
+  {
+    "id": 637,
+    "term": "ofício de banco central"
+  },
+  {
+    "id": 638,
+    "term": "ofício de bloqueio"
+  },
+  {
+    "id": 639,
+    "term": "ofício de citação"
+  },
+  {
+    "id": 640,
+    "term": "ofício de comunicação"
+  },
+  {
+    "id": 641,
+    "term": "ofício de desbloqueio"
+  },
+  {
+    "id": 642,
+    "term": "ofício de detran"
+  },
+  {
+    "id": 643,
+    "term": "ofício de informação"
+  },
+  {
+    "id": 644,
+    "term": "ofício de intimação"
+  },
+  {
+    "id": 645,
+    "term": "ofício de junta comercial"
+  },
+  {
+    "id": 646,
+    "term": "ofício de liberação"
+  },
+  {
+    "id": 647,
+    "term": "ofício de penhora"
+  },
+  {
+    "id": 648,
+    "term": "ofício de registro de imóveis"
+  },
+  {
+    "id": 649,
+    "term": "ofício de requisição"
+  },
+  {
+    "id": 650,
+    "term": "ofício de transferência"
+  },
+  {
+    "id": 651,
+    "term": "pedido de adiamento"
+  },
+  {
+    "id": 652,
+    "term": "pedido de alimentos provisórios"
+  },
+  {
+    "id": 653,
+    "term": "pedido de bloqueio judicial"
+  },
+  {
+    "id": 654,
+    "term": "pedido de certidão"
+  },
+  {
+    "id": 655,
+    "term": "pedido de desistência"
+  },
+  {
+    "id": 656,
+    "term": "pedido de efeito suspensivo"
+  },
+  {
+    "id": 657,
+    "term": "pedido de esclarecimento"
+  },
+  {
+    "id": 658,
+    "term": "pedido de falência"
+  },
+  {
+    "id": 659,
+    "term": "pedido de gratuidade de justiça"
+  },
+  {
+    "id": 660,
+    "term": "pedido de habilitação de crédito"
+  },
+  {
+    "id": 661,
+    "term": "pedido de penhora online"
+  },
+  {
+    "id": 662,
+    "term": "pedido de preferência"
+  },
+  {
+    "id": 663,
+    "term": "pedido de providência"
+  },
+  {
+    "id": 664,
+    "term": "pedido de reconsideração"
+  },
+  {
+    "id": 665,
+    "term": "pedido de recuperação extrajudicial"
+  },
+  {
+    "id": 666,
+    "term": "pedido de recuperação judicial"
+  },
+  {
+    "id": 667,
+    "term": "pedido de renúncia"
+  },
+  {
+    "id": 668,
+    "term": "pedido de restituição de coisa arrecadada"
+  },
+  {
+    "id": 669,
+    "term": "pedido de tutela provisória"
+  },
+  {
+    "id": 670,
+    "term": "pedido de vista"
+  },
+  {
+    "id": 671,
+    "term": "penhora de aeronaves"
+  },
+  {
+    "id": 672,
+    "term": "penhora de ações"
+  },
+  {
+    "id": 673,
+    "term": "penhora de bens de família"
+  },
+  {
+    "id": 674,
+    "term": "penhora de bens móveis"
+  },
+  {
+    "id": 675,
+    "term": "penhora de conta corrente"
+  },
+  {
+    "id": 676,
+    "term": "penhora de conta poupança"
+  },
+  {
+    "id": 677,
+    "term": "penhora de créditos"
+  },
+  {
+    "id": 678,
+    "term": "penhora de dinheiro"
+  },
+  {
+    "id": 679,
+    "term": "penhora de direitos aquisitivos"
+  },
+  {
+    "id": 680,
+    "term": "penhora de faturamento"
+  },
+  {
+    "id": 681,
+    "term": "penhora de frutos e rendimentos"
+  },
+  {
+    "id": 682,
+    "term": "penhora de imóveis"
+  },
+  {
+    "id": 683,
+    "term": "penhora de investimentos"
+  },
+  {
+    "id": 684,
+    "term": "penhora de joias"
+  },
+  {
+    "id": 685,
+    "term": "penhora de marcas e patentes"
+  },
+  {
+    "id": 686,
+    "term": "penhora de navios"
+  },
+  {
+    "id": 687,
+    "term": "penhora de obras de arte"
+  },
+  {
+    "id": 688,
+    "term": "penhora de quotas"
+  },
+  {
+    "id": 689,
+    "term": "penhora de salário"
+  },
+  {
+    "id": 690,
+    "term": "penhora de veículos"
+  },
+  {
+    "id": 691,
+    "term": "pensão por morte"
+  },
+  {
+    "id": 692,
+    "term": "perícia contábil"
+  },
+  {
+    "id": 693,
+    "term": "perícia grafotécnica"
+  },
+  {
+    "id": 694,
+    "term": "perícia médica"
+  },
+  {
+    "id": 695,
+    "term": "petição inicial"
+  },
+  {
+    "id": 696,
+    "term": "preclusão"
+  },
+  {
+    "id": 697,
+    "term": "princípio da ampla defesa"
+  },
+  {
+    "id": 698,
+    "term": "princípio da anterioridade"
+  },
+  {
+    "id": 699,
+    "term": "princípio da autodeterminação dos povos"
+  },
+  {
+    "id": 700,
+    "term": "princípio da boa-fé objetiva"
+  },
+  {
+    "id": 701,
+    "term": "princípio da busca do pleno emprego"
+  },
+  {
+    "id": 702,
+    "term": "princípio da capacidade contributiva"
+  },
+  {
+    "id": 703,
+    "term": "princípio da cidadania"
+  },
+  {
+    "id": 704,
+    "term": "princípio da concessão de asilo político"
+  },
+  {
+    "id": 705,
+    "term": "princípio da cooperação entre os povos"
+  },
+  {
+    "id": 706,
+    "term": "princípio da defesa da paz"
+  },
+  {
+    "id": 707,
+    "term": "princípio da defesa do consumidor"
+  },
+  {
+    "id": 708,
+    "term": "princípio da defesa do meio ambiente"
+  },
+  {
+    "id": 709,
+    "term": "princípio da dignidade da pessoa humana"
+  },
+  {
+    "id": 710,
+    "term": "princípio da eficiência"
+  },
+  {
+    "id": 711,
+    "term": "princípio da função social da propriedade"
+  },
+  {
+    "id": 712,
+    "term": "princípio da função social do contrato"
+  },
+  {
+    "id": 713,
+    "term": "princípio da igualdade"
+  },
+  {
+    "id": 714,
+    "term": "princípio da igualdade entre os estados"
+  },
+  {
+    "id": 715,
+    "term": "princípio da impessoalidade"
+  },
+  {
+    "id": 716,
+    "term": "princípio da independência nacional"
+  },
+  {
+    "id": 717,
+    "term": "princípio da insignificância"
+  },
+  {
+    "id": 718,
+    "term": "princípio da intervenção mínima"
+  },
+  {
+    "id": 719,
+    "term": "princípio da irretroatividade"
+  },
+  {
+    "id": 720,
+    "term": "princípio da isonomia"
+  },
+  {
+    "id": 721,
+    "term": "princípio da legalidade"
+  },
+  {
+    "id": 722,
+    "term": "princípio da livre concorrência"
+  },
+  {
+    "id": 723,
+    "term": "princípio da livre iniciativa"
+  },
+  {
+    "id": 724,
+    "term": "princípio da moralidade"
+  },
+  {
+    "id": 725,
+    "term": "princípio da não-intervenção"
+  },
+  {
+    "id": 726,
+    "term": "princípio da pluralismo político"
+  },
+  {
+    "id": 727,
+    "term": "princípio da presunção de inocência"
+  },
+  {
+    "id": 728,
+    "term": "princípio da prevalência dos direitos humanos"
+  },
+  {
+    "id": 729,
+    "term": "princípio da proibição de retrocesso"
+  },
+  {
+    "id": 730,
+    "term": "princípio da proporcionalidade"
+  },
+  {
+    "id": 731,
+    "term": "princípio da publicidade"
+  },
+  {
+    "id": 732,
+    "term": "princípio da razoabilidade"
+  },
+  {
+    "id": 733,
+    "term": "princípio da redução das desigualdades regionais e sociais"
+  },
+  {
+    "id": 734,
+    "term": "princípio da repúdio ao terrorismo e ao racismo"
+  },
+  {
+    "id": 735,
+    "term": "princípio da separação dos poderes"
+  },
+  {
+    "id": 736,
+    "term": "princípio da simetria"
+  },
+  {
+    "id": 737,
+    "term": "princípio da soberania"
+  },
+  {
+    "id": 738,
+    "term": "princípio da solução pacífica dos conflitos"
+  },
+  {
+    "id": 739,
+    "term": "princípio da tratamento favorecido para empresas de pequeno porte"
+  },
+  {
+    "id": 740,
+    "term": "princípio da uniformidade geográfica"
+  },
+  {
+    "id": 741,
+    "term": "princípio da valores sociais do trabalho"
+  },
+  {
+    "id": 742,
+    "term": "princípio da vedação ao confisco"
+  },
+  {
+    "id": 743,
+    "term": "princípio do acesso à justiça"
+  },
+  {
+    "id": 744,
+    "term": "princípio do ato jurídico perfeito"
+  },
+  {
+    "id": 745,
+    "term": "princípio do contraditório"
+  },
+  {
+    "id": 746,
+    "term": "princípio do devido processo legal"
+  },
+  {
+    "id": 747,
+    "term": "princípio do direito adquirido"
+  },
+  {
+    "id": 748,
+    "term": "princípio do duplo grau de jurisdição"
+  },
+  {
+    "id": 749,
+    "term": "princípio do esgotamento das vias ordinárias"
+  },
+  {
+    "id": 750,
+    "term": "princípio do fato gerador"
+  },
+  {
+    "id": 751,
+    "term": "princípio do impulso oficial"
+  },
+  {
+    "id": 752,
+    "term": "princípio do in dubio pro misero"
+  },
+  {
+    "id": 753,
+    "term": "princípio do in dubio pro reo"
+  },
+  {
+    "id": 754,
+    "term": "princípio do in dubio pro societate"
+  },
+  {
+    "id": 755,
+    "term": "princípio do juiz natural"
+  },
+  {
+    "id": 756,
+    "term": "princípio do livre convencimento motivado"
+  },
+  {
+    "id": 757,
+    "term": "princípio do ne reformatio in pejus"
+  },
+  {
+    "id": 758,
+    "term": "princípio do non bis in idem"
+  },
+  {
+    "id": 759,
+    "term": "princípio do non venire contra factum proprium"
+  },
+  {
+    "id": 760,
+    "term": "princípio do pacto sunt servanda"
+  },
+  {
+    "id": 761,
+    "term": "princípio do poluidor-pagador"
+  },
+  {
+    "id": 762,
+    "term": "princípio do promotor natural"
+  },
+  {
+    "id": 763,
+    "term": "princípio do usuário-pagador"
+  },
+  {
+    "id": 764,
+    "term": "processo disciplinar crc"
+  },
+  {
+    "id": 765,
+    "term": "processo disciplinar crea"
+  },
+  {
+    "id": 766,
+    "term": "processo disciplinar cremea"
+  },
+  {
+    "id": 767,
+    "term": "processo disciplinar cro"
+  },
+  {
+    "id": 768,
+    "term": "processo disciplinar demissão a bem do serviço público"
+  },
+  {
+    "id": 769,
+    "term": "processo disciplinar inquérito administrativo"
+  },
+  {
+    "id": 770,
+    "term": "processo disciplinar magistratura"
+  },
+  {
+    "id": 771,
+    "term": "processo disciplinar ministério público"
+  },
+  {
+    "id": 772,
+    "term": "processo disciplinar oab"
+  },
+  {
+    "id": 773,
+    "term": "processo disciplinar policial civil"
+  },
+  {
+    "id": 774,
+    "term": "processo disciplinar policial militar"
+  },
+  {
+    "id": 775,
+    "term": "processo disciplinar servidor estadual"
+  },
+  {
+    "id": 776,
+    "term": "processo disciplinar servidor municipal"
+  },
+  {
+    "id": 777,
+    "term": "processo disciplinar servidor público federal"
+  },
+  {
+    "id": 778,
+    "term": "processo disciplinar sindicância"
+  },
+  {
+    "id": 779,
+    "term": "procon"
+  },
+  {
+    "id": 780,
+    "term": "procuração ad judicia"
+  },
+  {
+    "id": 781,
+    "term": "procuração ad judicia et extra"
+  },
+  {
+    "id": 782,
+    "term": "procuração apud acta"
+  },
+  {
+    "id": 783,
+    "term": "procuração com firma reconhecida"
+  },
+  {
+    "id": 784,
+    "term": "procuração com poderes específicos"
+  },
+  {
+    "id": 785,
+    "term": "procuração em causa própria"
+  },
+  {
+    "id": 786,
+    "term": "procuração para assembleia"
+  },
+  {
+    "id": 787,
+    "term": "procuração para banco"
+  },
+  {
+    "id": 788,
+    "term": "procuração para compra de imóvel"
+  },
+  {
+    "id": 789,
+    "term": "procuração para correios"
+  },
+  {
+    "id": 790,
+    "term": "procuração para detran"
+  },
+  {
+    "id": 791,
+    "term": "procuração para divórcio"
+  },
+  {
+    "id": 792,
+    "term": "procuração para inss"
+  },
+  {
+    "id": 793,
+    "term": "procuração para inventário"
+  },
+  {
+    "id": 794,
+    "term": "procuração para venda de imóvel"
+  },
+  {
+    "id": 795,
+    "term": "procuração particular"
+  },
+  {
+    "id": 796,
+    "term": "procuração por instrumento público"
+  },
+  {
+    "id": 797,
+    "term": "procuração pública"
+  },
+  {
+    "id": 798,
+    "term": "procuração revogação de"
+  },
+  {
+    "id": 799,
+    "term": "procuração substabelecimento de"
+  },
+  {
+    "id": 800,
+    "term": "prontidão"
+  },
+  {
+    "id": 801,
+    "term": "prova documental"
+  },
+  {
+    "id": 802,
+    "term": "prova pericial"
+  },
+  {
+    "id": 803,
+    "term": "prova testemunhal"
+  },
+  {
+    "id": 804,
+    "term": "quesitos"
+  },
+  {
+    "id": 805,
+    "term": "reconvenção"
+  },
+  {
+    "id": 806,
+    "term": "recurso adesivo"
+  },
+  {
+    "id": 807,
+    "term": "recurso de agravo de instrumento"
+  },
+  {
+    "id": 808,
+    "term": "recurso de agravo de petição"
+  },
+  {
+    "id": 809,
+    "term": "recurso de agravo em recurso especial"
+  },
+  {
+    "id": 810,
+    "term": "recurso de agravo em recurso extraordinário"
+  },
+  {
+    "id": 811,
+    "term": "recurso de agravo interno"
+  },
+  {
+    "id": 812,
+    "term": "recurso de agravo regimental"
+  },
+  {
+    "id": 813,
+    "term": "recurso de apelação"
+  },
+  {
+    "id": 814,
+    "term": "recurso de carta testemunhável"
+  },
+  {
+    "id": 815,
+    "term": "recurso de correição parcial"
+  },
+  {
+    "id": 816,
+    "term": "recurso de embargos de declaração"
+  },
+  {
+    "id": 817,
+    "term": "recurso de embargos de divergência"
+  },
+  {
+    "id": 818,
+    "term": "recurso de embargos infringentes"
+  },
+  {
+    "id": 819,
+    "term": "recurso de multa"
+  },
+  {
+    "id": 820,
+    "term": "recurso de reclamação"
+  },
+  {
+    "id": 821,
+    "term": "recurso de revista"
+  },
+  {
+    "id": 822,
+    "term": "recurso de revista repetitivo"
+  },
+  {
+    "id": 823,
+    "term": "recurso em sentido estrito"
+  },
+  {
+    "id": 824,
+    "term": "recurso especial"
+  },
+  {
+    "id": 825,
+    "term": "recurso extraordinário"
+  },
+  {
+    "id": 826,
+    "term": "recurso inominado"
+  },
+  {
+    "id": 827,
+    "term": "recurso ordinário"
+  },
+  {
+    "id": 828,
+    "term": "recurso ordinário constitucional"
+  },
+  {
+    "id": 829,
+    "term": "repercussão geral"
+  },
+  {
+    "id": 830,
+    "term": "repouso semanal remunerado"
+  },
+  {
+    "id": 831,
+    "term": "rescisão indireta"
+  },
+  {
+    "id": 832,
+    "term": "revelia"
+  },
+  {
+    "id": 833,
+    "term": "réplica"
+  },
+  {
+    "id": 834,
+    "term": "salário-família"
+  },
+  {
+    "id": 835,
+    "term": "salário-maternidade"
+  },
+  {
+    "id": 836,
+    "term": "seguro-desemprego"
+  },
+  {
+    "id": 837,
+    "term": "sentença"
+  },
+  {
+    "id": 838,
+    "term": "sobreaviso"
+  },
+  {
+    "id": 839,
+    "term": "stf"
+  },
+  {
+    "id": 840,
+    "term": "stj"
+  },
+  {
+    "id": 841,
+    "term": "sucumbência"
+  },
+  {
+    "id": 842,
+    "term": "suspeição"
+  },
+  {
+    "id": 843,
+    "term": "súmula 1 do stf"
+  },
+  {
+    "id": 844,
+    "term": "súmula 1 do stj"
+  },
+  {
+    "id": 845,
+    "term": "súmula 1 do tst"
+  },
+  {
+    "id": 846,
+    "term": "súmula 10 do stf"
+  },
+  {
+    "id": 847,
+    "term": "súmula 10 do stj"
+  },
+  {
+    "id": 848,
+    "term": "súmula 10 do tst"
+  },
+  {
+    "id": 849,
+    "term": "súmula 11 do stf"
+  },
+  {
+    "id": 850,
+    "term": "súmula 11 do stj"
+  },
+  {
+    "id": 851,
+    "term": "súmula 11 do tst"
+  },
+  {
+    "id": 852,
+    "term": "súmula 12 do stf"
+  },
+  {
+    "id": 853,
+    "term": "súmula 12 do stj"
+  },
+  {
+    "id": 854,
+    "term": "súmula 12 do tst"
+  },
+  {
+    "id": 855,
+    "term": "súmula 13 do stf"
+  },
+  {
+    "id": 856,
+    "term": "súmula 13 do stj"
+  },
+  {
+    "id": 857,
+    "term": "súmula 13 do tst"
+  },
+  {
+    "id": 858,
+    "term": "súmula 14 do stf"
+  },
+  {
+    "id": 859,
+    "term": "súmula 14 do stj"
+  },
+  {
+    "id": 860,
+    "term": "súmula 14 do tst"
+  },
+  {
+    "id": 861,
+    "term": "súmula 15 do stf"
+  },
+  {
+    "id": 862,
+    "term": "súmula 15 do stj"
+  },
+  {
+    "id": 863,
+    "term": "súmula 15 do tst"
+  },
+  {
+    "id": 864,
+    "term": "súmula 16 do stf"
+  },
+  {
+    "id": 865,
+    "term": "súmula 16 do stj"
+  },
+  {
+    "id": 866,
+    "term": "súmula 16 do tst"
+  },
+  {
+    "id": 867,
+    "term": "súmula 17 do stf"
+  },
+  {
+    "id": 868,
+    "term": "súmula 17 do stj"
+  },
+  {
+    "id": 869,
+    "term": "súmula 17 do tst"
+  },
+  {
+    "id": 870,
+    "term": "súmula 18 do stf"
+  },
+  {
+    "id": 871,
+    "term": "súmula 18 do stj"
+  },
+  {
+    "id": 872,
+    "term": "súmula 18 do tst"
+  },
+  {
+    "id": 873,
+    "term": "súmula 19 do stf"
+  },
+  {
+    "id": 874,
+    "term": "súmula 19 do stj"
+  },
+  {
+    "id": 875,
+    "term": "súmula 19 do tst"
+  },
+  {
+    "id": 876,
+    "term": "súmula 2 do stf"
+  },
+  {
+    "id": 877,
+    "term": "súmula 2 do stj"
+  },
+  {
+    "id": 878,
+    "term": "súmula 2 do tst"
+  },
+  {
+    "id": 879,
+    "term": "súmula 20 do stf"
+  },
+  {
+    "id": 880,
+    "term": "súmula 20 do stj"
+  },
+  {
+    "id": 881,
+    "term": "súmula 20 do tst"
+  },
+  {
+    "id": 882,
+    "term": "súmula 21 do stf"
+  },
+  {
+    "id": 883,
+    "term": "súmula 21 do stj"
+  },
+  {
+    "id": 884,
+    "term": "súmula 21 do tst"
+  },
+  {
+    "id": 885,
+    "term": "súmula 22 do stf"
+  },
+  {
+    "id": 886,
+    "term": "súmula 22 do stj"
+  },
+  {
+    "id": 887,
+    "term": "súmula 22 do tst"
+  },
+  {
+    "id": 888,
+    "term": "súmula 23 do stf"
+  },
+  {
+    "id": 889,
+    "term": "súmula 23 do stj"
+  },
+  {
+    "id": 890,
+    "term": "súmula 23 do tst"
+  },
+  {
+    "id": 891,
+    "term": "súmula 24 do stf"
+  },
+  {
+    "id": 892,
+    "term": "súmula 24 do stj"
+  },
+  {
+    "id": 893,
+    "term": "súmula 24 do tst"
+  },
+  {
+    "id": 894,
+    "term": "súmula 25 do stf"
+  },
+  {
+    "id": 895,
+    "term": "súmula 25 do stj"
+  },
+  {
+    "id": 896,
+    "term": "súmula 25 do tst"
+  },
+  {
+    "id": 897,
+    "term": "súmula 26 do stf"
+  },
+  {
+    "id": 898,
+    "term": "súmula 26 do stj"
+  },
+  {
+    "id": 899,
+    "term": "súmula 26 do tst"
+  },
+  {
+    "id": 900,
+    "term": "súmula 27 do stf"
+  },
+  {
+    "id": 901,
+    "term": "súmula 27 do stj"
+  },
+  {
+    "id": 902,
+    "term": "súmula 27 do tst"
+  },
+  {
+    "id": 903,
+    "term": "súmula 28 do stf"
+  },
+  {
+    "id": 904,
+    "term": "súmula 28 do stj"
+  },
+  {
+    "id": 905,
+    "term": "súmula 28 do tst"
+  },
+  {
+    "id": 906,
+    "term": "súmula 29 do stf"
+  },
+  {
+    "id": 907,
+    "term": "súmula 29 do stj"
+  },
+  {
+    "id": 908,
+    "term": "súmula 29 do tst"
+  },
+  {
+    "id": 909,
+    "term": "súmula 3 do stf"
+  },
+  {
+    "id": 910,
+    "term": "súmula 3 do stj"
+  },
+  {
+    "id": 911,
+    "term": "súmula 3 do tst"
+  },
+  {
+    "id": 912,
+    "term": "súmula 30 do stf"
+  },
+  {
+    "id": 913,
+    "term": "súmula 30 do stj"
+  },
+  {
+    "id": 914,
+    "term": "súmula 30 do tst"
+  },
+  {
+    "id": 915,
+    "term": "súmula 4 do stf"
+  },
+  {
+    "id": 916,
+    "term": "súmula 4 do stj"
+  },
+  {
+    "id": 917,
+    "term": "súmula 4 do tst"
+  },
+  {
+    "id": 918,
+    "term": "súmula 5 do stf"
+  },
+  {
+    "id": 919,
+    "term": "súmula 5 do stj"
+  },
+  {
+    "id": 920,
+    "term": "súmula 5 do tst"
+  },
+  {
+    "id": 921,
+    "term": "súmula 6 do stf"
+  },
+  {
+    "id": 922,
+    "term": "súmula 6 do stj"
+  },
+  {
+    "id": 923,
+    "term": "súmula 6 do tst"
+  },
+  {
+    "id": 924,
+    "term": "súmula 7 do stf"
+  },
+  {
+    "id": 925,
+    "term": "súmula 7 do stj"
+  },
+  {
+    "id": 926,
+    "term": "súmula 7 do tst"
+  },
+  {
+    "id": 927,
+    "term": "súmula 8 do stf"
+  },
+  {
+    "id": 928,
+    "term": "súmula 8 do stj"
+  },
+  {
+    "id": 929,
+    "term": "súmula 8 do tst"
+  },
+  {
+    "id": 930,
+    "term": "súmula 9 do stf"
+  },
+  {
+    "id": 931,
+    "term": "súmula 9 do stj"
+  },
+  {
+    "id": 932,
+    "term": "súmula 9 do tst"
+  },
+  {
+    "id": 933,
+    "term": "súmula vinculante"
+  },
+  {
+    "id": 934,
+    "term": "tcu"
+  },
+  {
+    "id": 935,
+    "term": "termo de acordo"
+  },
+  {
+    "id": 936,
+    "term": "termo de ajustamento de conduta"
+  },
+  {
+    "id": 937,
+    "term": "termo de audiência"
+  },
+  {
+    "id": 938,
+    "term": "termo de cessão"
+  },
+  {
+    "id": 939,
+    "term": "termo de compromisso"
+  },
+  {
+    "id": 940,
+    "term": "termo de concordância"
+  },
+  {
+    "id": 941,
+    "term": "termo de confissão de dívida"
+  },
+  {
+    "id": 942,
+    "term": "termo de consentimento"
+  },
+  {
+    "id": 943,
+    "term": "termo de declaração"
+  },
+  {
+    "id": 944,
+    "term": "termo de doação"
+  },
+  {
+    "id": 945,
+    "term": "termo de entrega de chaves"
+  },
+  {
+    "id": 946,
+    "term": "termo de fiel depositário"
+  },
+  {
+    "id": 947,
+    "term": "termo de guarda"
+  },
+  {
+    "id": 948,
+    "term": "termo de ocorrência"
+  },
+  {
+    "id": 949,
+    "term": "termo de penhora"
+  },
+  {
+    "id": 950,
+    "term": "termo de posse"
+  },
+  {
+    "id": 951,
+    "term": "termo de quitação"
+  },
+  {
+    "id": 952,
+    "term": "termo de renúncia"
+  },
+  {
+    "id": 953,
+    "term": "termo de rescisão do contrato de trabalho"
+  },
+  {
+    "id": 954,
+    "term": "termo de responsabilidade"
+  },
+  {
+    "id": 955,
+    "term": "termo de transação"
+  },
+  {
+    "id": 956,
+    "term": "termo de vistoria"
+  },
+  {
+    "id": 957,
+    "term": "tj"
+  },
+  {
+    "id": 958,
+    "term": "tre"
+  },
+  {
+    "id": 959,
+    "term": "trf"
+  },
+  {
+    "id": 960,
+    "term": "tribunal de alçada"
+  },
+  {
+    "id": 961,
+    "term": "tribunal de contas da união"
+  },
+  {
+    "id": 962,
+    "term": "tribunal de contas do estado"
+  },
+  {
+    "id": 963,
+    "term": "tribunal de contas do município"
+  },
+  {
+    "id": 964,
+    "term": "tribunal de justiça"
+  },
+  {
+    "id": 965,
+    "term": "tribunal de justiça militar"
+  },
+  {
+    "id": 966,
+    "term": "tribunal marítimo"
+  },
+  {
+    "id": 967,
+    "term": "tribunal penal internacional"
+  },
+  {
+    "id": 968,
+    "term": "tribunal pleno"
+  },
+  {
+    "id": 969,
+    "term": "tribunal regional do trabalho"
+  },
+  {
+    "id": 970,
+    "term": "tribunal regional eleitoral"
+  },
+  {
+    "id": 971,
+    "term": "tribunal regional federal"
+  },
+  {
+    "id": 972,
+    "term": "tribunal superior do trabalho"
+  },
+  {
+    "id": 973,
+    "term": "tribunal superior eleitoral"
+  },
+  {
+    "id": 974,
+    "term": "tribunal órgão especial"
+  },
+  {
+    "id": 975,
+    "term": "trt"
+  },
+  {
+    "id": 976,
+    "term": "trânsito em julgado"
+  },
+  {
+    "id": 977,
+    "term": "tse"
+  },
+  {
+    "id": 978,
+    "term": "tst"
+  },
+  {
+    "id": 979,
+    "term": "tutela antecedente"
+  },
+  {
+    "id": 980,
+    "term": "tutela antecipada"
+  },
+  {
+    "id": 981,
+    "term": "tutela cautelar"
+  },
+  {
+    "id": 982,
+    "term": "tutela coletiva"
+  },
+  {
+    "id": 983,
+    "term": "tutela de evidência"
+  },
+  {
+    "id": 984,
+    "term": "tutela de remoção do ilícito"
+  },
+  {
+    "id": 985,
+    "term": "tutela de urgência"
+  },
+  {
+    "id": 986,
+    "term": "tutela definitiva"
+  },
+  {
+    "id": 987,
+    "term": "tutela específica"
+  },
+  {
+    "id": 988,
+    "term": "tutela incidente"
+  },
+  {
+    "id": 989,
+    "term": "tutela inibitória"
+  },
+  {
+    "id": 990,
+    "term": "tutela pelo equivalente"
+  },
+  {
+    "id": 991,
+    "term": "tutela provisória"
+  },
+  {
+    "id": 992,
+    "term": "tutela ressarcitória"
+  },
+  {
+    "id": 993,
+    "term": "tutela satisfativa"
+  },
+  {
+    "id": 994,
+    "term": "vara criminal"
+  },
+  {
+    "id": 995,
+    "term": "vara cível"
+  },
+  {
+    "id": 996,
+    "term": "vara da fazenda pública"
+  },
+  {
+    "id": 997,
+    "term": "vara da infância e juventude"
+  },
+  {
+    "id": 998,
+    "term": "vara da mulher"
+  },
+  {
+    "id": 999,
+    "term": "vara de acidentes de trabalho"
+  },
+  {
+    "id": 1000,
+    "term": "vara de cartas precatórias"
+  },
+  {
+    "id": 1001,
+    "term": "vara de crimes contra a vida"
+  },
+  {
+    "id": 1002,
+    "term": "vara de entorpecentes"
+  },
+  {
+    "id": 1003,
+    "term": "vara de execuções fiscais"
+  },
+  {
+    "id": 1004,
+    "term": "vara de execuções penais"
+  },
+  {
+    "id": 1005,
+    "term": "vara de falências e recuperações judiciais"
+  },
+  {
+    "id": 1006,
+    "term": "vara de família e sucessões"
+  },
+  {
+    "id": 1007,
+    "term": "vara de meio ambiente"
+  },
+  {
+    "id": 1008,
+    "term": "vara de registros públicos"
+  },
+  {
+    "id": 1009,
+    "term": "vara de sucessões"
+  },
+  {
+    "id": 1010,
+    "term": "vara de violência doméstica"
+  },
+  {
+    "id": 1011,
+    "term": "vara do juizado especial criminal"
+  },
+  {
+    "id": 1012,
+    "term": "vara do juizado especial cível"
+  },
+  {
+    "id": 1013,
+    "term": "vara do juizado especial federal"
+  },
+  {
+    "id": 1014,
+    "term": "vara do trabalho"
+  },
+  {
+    "id": 1015,
+    "term": "vara do tribunal do júri"
+  },
+  {
+    "id": 1016,
+    "term": "vara eleitoral"
+  },
+  {
+    "id": 1017,
+    "term": "vara federal"
+  },
+  {
+    "id": 1018,
+    "term": "vara militar"
+  },
+  {
+    "id": 1019,
+    "term": "ônus da prova"
+  }
+]

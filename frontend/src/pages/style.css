@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    background-color: #02021E;
+    font-family: sans-serif; 
+    font-weight: 600;
+}
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 180px;
+    width: 180px;
+    margin-bottom: -10px;
+}
+
+.title {
+    font-size: 32px;
+    color: white;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.search-container {
+  position: relative;
+  width: 100%;
+  max-width: 610px;
+  margin: 0 auto;
+}
+
+.search-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-bar {
+  flex: 1;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 2;
+}
+
+.search-bar:focus {
+  outline: none;
+  box-shadow: 0 1px 6px rgba(255, 255, 255, 0.1);
+}
+
+.search-button {
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 50%;
+  border: none;
+  color: #123e65;
+  background-color: #fdd60f;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 2;  
+}
+
+.search-button:hover {
+  background-color: #e0c40e;
+}
+
+.search-icon {
+  width: 22px;
+  height: 22px;
+}
+
+.suggestions-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: calc(100% - 60px);
+  background-color: #ffffff;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px 24px 24px 24px;
+  box-shadow: 0 4px 6px rgba(32, 33, 36, 0.28);
+  margin-top: -20px;
+  padding: 25px 0 10px 0;
+  list-style: none;
+  z-index: 1;
+  max-height: 250px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+.suggestion-item {
+  padding: 8px 20px;
+  font-size: 16px;
+  color: #202124;
+  cursor: pointer;
+  text-align: left;
+}
+
+.suggestion-item:hover,
+.suggestion-item:active {
+  background-color: #f1f3f4;
+}
+
+@media (max-width: 600px) {
+  .search-container {
+    width: 90%;
+  }
+
+  .search-bar {
+    padding: 12px 20px;
+    font-size: 15px;
+  }
+
+  .search-button {
+    height: 44px;
+    width: 44px;
+    min-width: 44px;
+  }
+  
+  .suggestions-dropdown {
+    width: calc(100% - 54px); 
+  }
+}
