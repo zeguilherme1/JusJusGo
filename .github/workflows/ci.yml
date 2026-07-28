@@ -1,0 +1,35 @@
+name: CI JusJusGo
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest 
+
+    steps:
+    - name: Clonar Repo
+      uses: actions/checkout@v4
+
+    - name: Configurar Node 20
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20' 
+
+    - name: Instalar deps e testar Backend
+      run: |
+        cd backend
+        npm install
+        npm run lint
+
+    - name: Instalar deps e testar Frontend
+      run: |
+        cd frontend
+        npm install
+        npm run build
+
+    - name: Testar build do Docker Compose
+      run: docker compose build
